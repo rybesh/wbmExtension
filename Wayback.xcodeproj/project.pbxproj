@@ -504,7 +504,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 202601;
-				DEVELOPMENT_TEAM = J3PNNM2UXC;
+				DEVELOPMENT_TEAM = 4F82FRRFPU;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "wbm Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -513,7 +513,7 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MARKETING_VERSION = 2026.1;
-				PRODUCT_BUNDLE_IDENTIFIER = net.otzberg.wbm.Extension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.aeshin.wbm.Extension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -527,7 +527,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 202601;
-				DEVELOPMENT_TEAM = J3PNNM2UXC;
+				DEVELOPMENT_TEAM = 4F82FRRFPU;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "wbm Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -536,7 +536,7 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MARKETING_VERSION = 2026.1;
-				PRODUCT_BUNDLE_IDENTIFIER = net.otzberg.wbm.Extension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.aeshin.wbm.Extension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -553,7 +553,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 202601;
-				DEVELOPMENT_TEAM = J3PNNM2UXC;
+				DEVELOPMENT_TEAM = 4F82FRRFPU;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = wbm/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -561,7 +561,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 2026.1;
-				PRODUCT_BUNDLE_IDENTIFIER = net.otzberg.wbm;
+				PRODUCT_BUNDLE_IDENTIFIER = org.aeshin.wbm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -577,7 +577,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 202601;
-				DEVELOPMENT_TEAM = J3PNNM2UXC;
+				DEVELOPMENT_TEAM = 4F82FRRFPU;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = wbm/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -585,7 +585,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 2026.1;
-				PRODUCT_BUNDLE_IDENTIFIER = net.otzberg.wbm;
+				PRODUCT_BUNDLE_IDENTIFIER = org.aeshin.wbm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
