@@ -13,7 +13,7 @@ class SettingsHelper {
     var defaults: UserDefaults
 
     init(){
-        self.defaults = UserDefaults(suiteName: "J3PNNM2UXC.wbm")!
+        self.defaults = UserDefaults(suiteName: "4F82FRRFPU.wbm")!
     }
     
     func getStringData(key : String) -> String{
